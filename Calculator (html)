@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+</head>
+<body>
+  <div id="calculator">
+    <!-- Calculator display -->
+    <input type="text" id="display" readonly>
+
+    <!-- Calculator buttons -->
+    <button onclick="appendToDisplay('1')">1</button>
+    <button onclick="appendToDisplay('2')">2</button>
+    <!-- ... (other number buttons) ... -->
+    <button onclick="operate('+')">+</button>
+    <button onclick="appendToDisplay('0')">0</button>
+    <button onclick="clearDisplay()">C</button>
+    <button onclick="calculate()">=</button>
+    <button onclick="operate('/')">/</button>
+  </div>
+
+  <!-- JavaScript code -->
+  <script>
+    // JavaScript code goes here
+  </script>
+</body>
+</html>
