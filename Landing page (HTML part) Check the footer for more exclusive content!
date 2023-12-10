@@ -163,33 +163,33 @@
             <div class="bottomlinks">
                 <h4>Politics</h4>
                 <ul>
-                    <li><a href="">Congress</a></li>
-                    <li><a href="">Security</a></li>
-                    <li><a href="">The nine</a></li>
-                    <li><a href="">BJP</a></li>
-                    <li><a href="">State</a></li>
+                    <li><a href="https://economictimes.indiatimes.com/topic/congress">Congress</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/topic/political-security/news">Security</a></li>
+                    <li><a href="https://www.9news.com.au/">The nine</a></li>
+                    <li><a href="https://www.abplive.com/topic/bjp">BJP</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/politics/news">State</a></li>
                 </ul>             
             </div>
             
             <div class="bottomlinks">
                 <h4>Technology</h4>
                 <ul>
-                    <li><a href="">Gadget</a></li>
-                    <li><a href="">Startup</a></li>
-                    <li><a href="">Business</a></li>
-                    <li><a href="">Culture</a></li>
-                    <li><a href="">Future</a></li>
+                    <li><a href="https://www.gadgets360.com/news">Gadget</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/city/chandigarh/stuck-on-starting-line-startup-policy-in-a-fix/articleshow/105871929.cms">Startup</a></li>
+                    <li><a href="https://www.livemint.com/companies/news/adani-infrastructure-india-appoints-bimal-dayal-as-its-ceo-11702112243608.html">Business</a></li>
+                    <li><a href="https://www.wired.com/">Culture</a></li>
+                    <li><a href="https://www.engadget.com/tomorrow/">Future</a></li>
                 </ul>             
             </div>
 
             <div class="bottomlinks">
                 <h4>Entertainment</h4>
                 <ul>
-                    <li><a href="">Media</a></li>
-                    <li><a href="">Screen</a></li>
-                    <li><a href="">Star</a></li>
-                    <li><a href="">Fashion</a></li>
-                    <li><a href="">Culture</a></li>
+                    <li><a href="https://brandequity.economictimes.indiatimes.com/news/media">Media</a></li>
+                    <li><a href="https://www.elgato.com/us/en/s/screen-link">Screen</a></li>
+                    <li><a href="https://www.news.com.au/entertainment/celebrity-life">Star</a></li>
+                    <li><a href="https://www.vogue.com/fashion">Fashion</a></li>
+                    <li><a href="https://indianexpress.com/section/lifestyle/art-and-culture/">Culture</a></li>
                 </ul>             
             </div>
         <div>
