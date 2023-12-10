@@ -27,7 +27,7 @@ a{
     background-color: yellow(255, 255, 255);
 }
 .header{
-    background-color: mediumaquamarine;
+    background-color: lightgoldenrodyellow;
     margin-bottom: 1rem;
     box-sizing: border-box;
     width: 100%;
@@ -79,6 +79,11 @@ img{
     justify-content: space-around;
     background-color: black;
     color: lightblue;
+}
+
+.bottomlinks ul{
+    list-style: none;
+    padding: 0;
 }
 
 .bottomlinks ul{
